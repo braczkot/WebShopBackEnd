@@ -4,7 +4,12 @@ using System.Linq;
 using System.ServiceModel.Description;
 using System.ServiceModel;
 using System.Web;
+using Server.IServices;
+using Server.Controllers;
+using Server.Models;
+using Server.DatabaseManager;
 
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 namespace HOST
 {
     internal class Program
